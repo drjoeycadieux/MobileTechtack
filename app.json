@@ -4,7 +4,7 @@
     "slug": "techtack",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/output-.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
